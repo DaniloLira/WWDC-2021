@@ -12,9 +12,9 @@ public class GameWinScene: SKScene{
         judy.position = CGPoint(x: 225, y: 100)
         judy.setScale(0.1)
         
-        let backgroundSound = SKAudioNode(fileNamed: "AmbientMusic.mp3")
-        self.addChild(backgroundSound)
-        backgroundSound.run(SKAction.play())
+//        let backgroundSound = SKAudioNode(fileNamed: "AmbientMusic.mp3")
+//        self.addChild(backgroundSound)
+//        backgroundSound.run(SKAction.play())
         
         self.rocket.position = CGPoint(x: 250, y: 140)
         self.rocket.setScale(0.5)

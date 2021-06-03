@@ -50,9 +50,9 @@ public class GameScene: SKScene{
         self.addChild(book)
         self.addChild(Popup.shared())
         
-        let backgroundSound = SKAudioNode(fileNamed: "InGameBackground.wav")
-        self.addChild(backgroundSound)
-        backgroundSound.run(SKAction.play())
+//        let backgroundSound = SKAudioNode(fileNamed: "InGameBackground.wav")
+//        self.addChild(backgroundSound)
+//        backgroundSound.run(SKAction.play())
     }
     
     func removeET(et: ET) {

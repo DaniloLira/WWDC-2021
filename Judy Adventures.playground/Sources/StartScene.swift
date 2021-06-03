@@ -8,9 +8,9 @@ public class StartScene: SKScene{
     override public func didMove(to view: SKView) {
         super.didMove(to: view)
         
-        let backgroundSound = SKAudioNode(fileNamed: "AmbientMusic.mp3")
-        self.addChild(backgroundSound)
-        backgroundSound.run(SKAction.play())
+//        let backgroundSound = SKAudioNode(fileNamed: "AmbientMusic.mp3")
+//        self.addChild(backgroundSound)
+//        backgroundSound.run(SKAction.play())
         
         let button = SKButtonNode(image: .init(imageNamed: "Anotar.png"), label: .init(text: "START"), action: {
             GameScene.destroy()

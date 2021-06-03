@@ -17,7 +17,6 @@ public class Rocket: SKSpriteNode {
         if Judy.shared().tilePosition.0 == 8 && Judy.shared().tilePosition.1 == 11 {
             GameScene.shared().winGame()
         }
-        
     }
 
     required init?(coder aDecoder: NSCoder) {
