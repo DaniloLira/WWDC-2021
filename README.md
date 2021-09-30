@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DaniloLira/WWDC-2021">
-    <img src="assets/logo.png" alt="Logo" width="180" height="180">
+    <img src="assets/logo.png" alt="Logo" width="180" height="300">
   </a>
 
   <h3 align="center">Judy Adventures</h3>
@@ -47,7 +47,7 @@ Learn about the space and help Judy to go home!
 
 | Canvas | Question | Notebook |
 |----------|----------|----------|
-| <img src="assets/canvas.png" alt="Canvas" width="280" height="406">  |  <img src="assets/question.png" alt="Question" width="280" height="406">  |  <img src="assets/notebook.png" alt="Notebook" width="280" height="406">  |
+| <img src="assets/canvas.png" alt="Canvas" width="280" height="300">  |  <img src="assets/question.png" alt="Question" width="280" height="300">  |  <img src="assets/notebook.png" alt="Notebook" width="280" height="300">  |
 
 
 ### Technologies used
